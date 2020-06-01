@@ -1,6 +1,6 @@
 # Parameter Size Controllable Efficient Neural Architecture Search via Parameter Sharing
 
-The AutoML topic of Reinforcement Learning Course 2020 at UCAS is to evaluate the efficiency of the ENAS method and design a parameter size controllable mechanism to search the neural structure. This project first re-implement the ENAS performance on the CIFAR-10 dataset under the macro search setting proposed by the original paper. Secondly, we devise a new reward to enhance the ENAS method's ability to control the parameter size. Experiment results on the CIFAR-10 dataset verify the effectiveness of our method for controlling parameter size.
+The AutoML topic of Reinforcement Learning Course 2020 at UCAS is to evaluate the effectiveness of the ENAS method and design a parameter size controllable mechanism to search the neural structure. This project first re-implement the ENAS performance on the CIFAR-10 dataset under the macro search setting proposed by the original paper. Secondly, we devise a new reward function to enhance the ENAS method's ability to control the parameter size. Experiment results on the CIFAR-10 dataset verify the effectiveness of our method for controlling parameter size.
 
 ![](./img/overview.png)
 
