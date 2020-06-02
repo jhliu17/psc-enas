@@ -1,4 +1,4 @@
-# Parameter Size Controllable Efficient Neural Architecture Search via Parameter Sharing
+# Parameter Size Controllable Efficient Neural Architecture Search
 
 ![](./img/overview.png)
 
