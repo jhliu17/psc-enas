@@ -35,13 +35,13 @@ A concrete example can be found in our script `./scripts/cifar10_macro_final.sh`
 To run the ENAS experiments on the parameter size-controlled search, please use the following script. You can modify the _controller_parameters_target_ and _controller_parameters_target_weight_ in the script to control the parameter size you want.
 
 ```
-scripts\cifar10_macro_search_param_ctrl.sh
+scripts/cifar10_macro_search_param_ctrl.sh
 ```
 
 To calculate the parameter size of the neural structure designed by the ENAS, you can use the following script.
 
 ```
-src\cal_para_num.py
+src/cal_para_num.py
 ```
 
 ## Acknowledgement
