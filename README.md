@@ -1,4 +1,4 @@
-# Parameter Size Controllable Efficient Neural Architecture Search
+# Parameter Size Controllable ENAS
 
 ![](./img/overview.png)
 
